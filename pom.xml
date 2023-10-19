@@ -77,6 +77,13 @@
             <artifactId>vaadin-testbench-junit5</artifactId>
             <scope>test</scope>
         </dependency>
+        
+        <!-- VCamera -->
+        <dependency>
+		   <groupId>org.vaadin.addons.parttio</groupId>
+		   <artifactId>vcamera</artifactId>
+		   <version>4.0.0</version>
+		</dependency>
     </dependencies>
 
     <build>

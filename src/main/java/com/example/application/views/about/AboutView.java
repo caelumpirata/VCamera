@@ -12,7 +12,7 @@ import com.vaadin.flow.theme.lumo.LumoUtility.Margin;
 
 @PageTitle("About")
 @Route(value = "about", layout = MainLayout.class)
-@RouteAlias(value = "", layout = MainLayout.class)
+//@RouteAlias(value = "", layout = MainLayout.class)
 public class AboutView extends VerticalLayout {
 
     public AboutView() {
