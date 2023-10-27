@@ -145,5 +145,3 @@ public class VCameraView extends VerticalLayout {
 
 }
 
-
-
